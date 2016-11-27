@@ -1,0 +1,57 @@
+
+
+{ :Rectangle &rctTop
+	:InitiallyActive True
+	:OrigBoxSize 131 86
+	:OrigPosition 0 0
+	:OrigLineWidth 1
+	:OrigRefFillColour '=00=00=FF=00'
+}
+
+{ :Text &txtBox2
+	:InitiallyActive True
+	:OrigContent 'roshantha mendis'
+	:OrigBoxSize 323 46
+	:OrigPosition 343 122
+	:FontAttributes 'plain.40.20.0'
+	:TextColour '=FF=FF=00=00'
+	:BackgroundColour '=00=00=FF=7F'
+	:HJustification start
+	:VJustification start
+	:TextWrapping True
+}
+
+{ :Text &txtBox1
+	:InitiallyActive True
+	:OrigContent 'abcdefgh fff f ppppppppppppppp'
+	:OrigBoxSize 365 178
+	:OrigPosition 19 368
+	:FontAttributes 'plain.24.20.0'
+	:TextColour '=00=00=00=00'
+	:BackgroundColour '=FF=00=FF=00'
+	:HJustification centre
+	:VJustification start
+	:TextWrapping True
+}
+
+{ :Bitmap &bmpPleaseWait
+	:InitiallyActive True
+	:OrigContent :ContentRef "/app_img/splashpleasewait.png"
+	:OrigBoxSize 281 44
+	:OrigPosition 377 279
+}
+
+{ :Rectangle &rctMiddle
+	:InitiallyActive True
+	:OrigBoxSize 180 90
+	:OrigPosition 108 26
+	:OrigLineWidth 0
+	:OrigRefFillColour '=EB=18=00=4C'
+}
+
+{ :Bitmap &bmpLogo
+	:InitiallyActive True
+	:OrigContent :ContentRef "/app_img/logo.png"
+	:OrigBoxSize 262 192
+	:OrigPosition 37 150
+}
